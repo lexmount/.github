@@ -45,3 +45,4 @@ Lexmount provides the infrastructure layer for that workflow:
 - Cloud service: [browser.lexmount.com](https://browser.lexmount.com/en)
 - Website: [lexmount.com](https://lexmount.com)
 - Moli: [github.com/lexmount/moli](https://github.com/lexmount/moli)
+- Leaderboard: [webstone.lexmount.io](https://webstone.lexmount.io/)
